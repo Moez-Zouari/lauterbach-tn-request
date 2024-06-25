@@ -1,13 +1,9 @@
 
 TITLE: 
-Guide - Fully Responsive Free HTML5 template
+Lauterbach TN - Request Forms
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Moez Zouari
 
 
 CREDITS:
